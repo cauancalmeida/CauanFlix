@@ -1,11 +1,12 @@
 import React from 'react';
 import { FooterBase } from './styles';
-import Logo from "../../assets/imagens/Logo.png";
+import Logo from '../../assets/imagens/newLogo.png';
+
 function Footer() {
   return (
     <FooterBase>
       <a href="https://www.alura.com.br/">
-      <img className='Logo'src={Logo} alt="CauanFlix logo"/>
+        <img className="Logo" src={Logo} alt="CauanFlix logo" />
       </a>
       <p>
         Orgulhosamente criado durante a

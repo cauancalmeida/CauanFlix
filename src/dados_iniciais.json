@@ -1,156 +1,323 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Me poupe!",
+      "link": "https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg",
+      "cor": "#AEB404",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Canal Me poupe!",
+        "url": "https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Tudo que você precisa saber sobre RESERVA DE EMERGÊNCIA!",
+          "url": "https://www.youtube.com/watch?v=shfYMvEXqm4"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "GUIA BEM BÁSICO pra começar a investir com POUCO DINHEIRO!",
+          "url": "https://www.youtube.com/watch?v=aGGYFxLdFMw"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "COMO COMEÇAR A INVESTIR?",
+          "url": "https://www.youtube.com/watch?v=H-UyKqs2qBU"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "ONDE INVESTIR PRA CADA META DE VIDA? ",
+          "url": "https://www.youtube.com/watch?v=1w2_0P9Eldk"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "GANHE DINHEIRO EM 2020! TOP 6 investimentos do ano! De Tesouro a Fundos Imobiliários",
+          "url": "https://www.youtube.com/watch?v=-HJn3vgOx_M"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "O MELHOR TESOURO DIRETO PRA VOCÊ!",
+          "url": "https://www.youtube.com/watch?v=sN040Qb0fuM"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "TESOURO DIRETO: QUANDO VALE A PENA RESGATAR?",
+          "url": "https://www.youtube.com/watch?v=J5DiGwXOM4Q"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "PREVIDÊNCIA PRIVADA VALE A PENA?",
+          "url": "https://www.youtube.com/watch?v=BqgDSANzzLY"
+        },
+        {
+          "titulo": "6 FUNDOS A PARTIR DE 100 REAIS!",
+          "url": "https://www.youtube.com/watch?v=pilV5xlLwHk"
+        },
+        {
+          "titulo": "AÇÕES PARA INICIANTES: 5 PASSOS PRÁTICOS PRA INVESTIR AGORA",
+          "url": "https://www.youtube.com/watch?v=lZBCB4umres"
+        },
+        {
+          "titulo": "5 PASSOS PRA INVESTIR EM AÇÕES! Entrar agora na Bolsa ou esperar?",
+          "url": "https://www.youtube.com/watch?v=F53-_i9fr-0"
+        },
+        {
+          "titulo": "AÇÕES COM 100 REAIS! O passo a passo que faltava!",
+          "url": "https://www.youtube.com/watch?v=TDQMIkHVE-I"
+        },
+        {
+          "titulo": "COMO GANHAR MIL REAIS A MAIS TODO MÊS EM 2020!?",
+          "url": "https://www.youtube.com/watch?v=GhOFj-e12I4"
+        },
+        {
+          "titulo": "O BARATO QUE SAI CARO! Como fazer a conta CERTA pra você não comprar ERRADO!",
+          "url": "https://www.youtube.com/watch?v=dWufvGNpDIg"
+        },
+        {
+          "titulo": "ALUGAR É MELHOR DO QUE FINANCIAR SE...Esse simulador DEU A RESPOSTA!",
+          "url": "https://www.youtube.com/watch?v=_mR2FW1oB-I"
+        },
+        {
+          "titulo": "PAGUE MENOS NO FINANCIAMENTO",
+          "url": "https://www.youtube.com/watch?v=jWqTRHR3FR8"
+        },
+        {
+          "titulo": "7 COISAS QUE FAZEM VOCÊ GASTAR MAIS ENERGIA e você nem sabia!",
+          "url": "https://www.youtube.com/watch?v=KdNCdRr9CfQ"
+        },
+        {
+          "titulo": "MEUS 5 HÁBITOS mais simples PARA ECONOMIZAR NA CONTA DE LUZ! Tente não ECONOMIZAR",
+          "url": "https://www.youtube.com/watch?v=KdNCdRr9CfQ"
+        },
+        {
+          "titulo": "5 MOTIVOS PRÁTICOS PARA VENDER O SEU CARRO!",
+          "url": "https://www.youtube.com/watch?v=xQzc_mCgplA"
+        },
+        {
+          "titulo": "3 TÉCNICAS PODEROSAS que eu uso pra GANHAR MAIS DINHEIRO!",
+          "url": "https://www.youtube.com/watch?v=43yeFMgoUDg"
+        },
+        {
+          "titulo": "O que fazer para que GAROTAS cresçam como MULHERES INDEPENDENTES?",
+          "url": "https://www.youtube.com/watch?v=5c4dljLGk5g"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Nath Finanças",
+      "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Canal Nath Finanças",
+        "url": "https://www.youtube.com/channel/UCmhzmQBdXP9TeRtpQ-iWSPg"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "INDEPENDÊNCIA FINANCEIRA",
+          "url": "https://www.youtube.com/watch?v=S-xNCwPVz6I"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "TESOURO DIRETO X POUPANÇA. QUAL A DIFERENÇA?",
+          "url": "https://www.youtube.com/watch?v=Y-lF8n1kPRY"
+        }, 
+        {
+          "titulo": "5 DICAS DE COMO FAZER SUA RESERVA DE EMERGÊNCIA",
+          "url": "https://www.youtube.com/watch?v=bP-QLPgqRuQ"
+        },
+        {
+          "titulo": "COMO SE ORGANIZAR COM POUCO DINHEIRO?",
+          "url": "https://www.youtube.com/watch?v=1vGVHGyqg0U"
+        },
+        {
+          "titulo": "O QUE FAZER COM AS CONTAS BÁSICAS NESSE MOMENTO?",
+          "url": "https://www.youtube.com/watch?v=J4xmoEI9QrU"
+        },
+        {
+          "titulo": "COMO LIMPAR SEU NOME E AUMENTAR O SCORE DO CPF?",
+          "url": "https://www.youtube.com/watch?v=krehbvDKUic"
+        }, 
+        {
+          "titulo": "DÍVIDA CADUCA: APÓS 5 ANOS SEM PAGAR A DÍVIDA, ELA SAI DA SERASA?",
+          "url": "https://www.youtube.com/watch?v=V8R-QTAzjXE"
+        }, 
+        {
+          "titulo": "COMO AUMENTAR A PONTUAÇÃO NO CPF?",
+          "url": "https://www.youtube.com/watch?v=yJPymE0Kcqg"
+        },
+        {
+          "titulo": "JUROS ROTATIVOS DO CARTÃO DE CRÉDITO E FINANCIAMENTO ",
+          "url": "https://www.youtube.com/watch?v=JQKDE0AHW7c"
+        }, 
+        {
+          "titulo": "IOF: O QUE É O IOF? COMO FUNCIONA? ",
+          "url": "https://www.youtube.com/watch?v=ZcywN1kYo6w"
+        }, 
+        {
+          "titulo": "COMO NÃO PAGAR TARIFAS BANCÁRIAS NA CONTA CORRENTE",
+          "url": "https://www.youtube.com/watch?v=oxlUhUvfM5k"
+        }, 
+        {
+          "titulo": "HÁBITO DE POUPAR X POUPANÇA",
+          "url": "https://www.youtube.com/watch?v=v7ntvMjtAtc"
+        }, 
+        {
+          "titulo": "GANHE DINHEIRO RESPONDENDO PESQUISAS",
+          "url": "https://www.youtube.com/watch?v=Xk_FL5A3qd4"
+        }, 
+        {
+          "titulo": "FINANCIAMENTO OU EMPRÉSTIMO? QUAL A DIFERENÇA?",
+          "url": "https://www.youtube.com/watch?v=kLv-Gk882-o"
+        }, 
+        {
+          "titulo": "COMO PAUSAR AS PRESTAÇÕES DE CASA E CARRO POR 2 MESES SEM JUROS |",
+          "url": "https://www.youtube.com/watch?v=AfyzMC659pw"
+        }, 
+        {
+          "titulo": "ECONOMIZE GRANA COM APLICATIVOS",
+          "url": "https://www.youtube.com/watch?v=_4M-twWFGBQ"
+        }, 
+        {
+          "titulo": "5 PASSOS PARA VOCÊ TER UMA RENDA EXTRA SEM SAIR DE CASA",
+          "url": "https://www.youtube.com/watch?v=V1xKluRhZ-g"
+        }, 
+        {
+          "titulo": "COMO VIAJAR GASTANDO POUCO?",
+          "url": "https://www.youtube.com/watch?v=_iVBxr1Ki_4"
+        }, 
+        {
+          "titulo": "O QUE É MINIMALISMO? ",
+          "url": "https://www.youtube.com/watch?v=TpwPs-7b7T0"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
+      "titulo": "Primo Rico",
       "cor": "orange",
+      "link_extra": {
+        "text": "Canal Primo Rico",
+        "url": "https://www.youtube.com/user/thigas"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "5 TRUQUES PRÁTICOS PARA GUARDAR DINHEIRO",
+          "url": "https://www.youtube.com/watch?v=WLNmUr7GwU4"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Como sair das DIVIDAS!",
+          "url": "https://www.youtube.com/watch?v=8zj0GJKTWwE"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "A CONTA QUE NINGUÉM FAZ ANTES DE ASSINAR QUALQUER COISA!",
+          "url": "https://www.youtube.com/watch?v=W7GErR1J0OU"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Como economizar PELO MENOS 30% da sua renda em 6 MESES!",
+          "url": "https://www.youtube.com/watch?v=_o4AysdeuvE"
+        },
+        {
+          "titulo": "TESOURO SELIC OU FUNDO PRA RESERVA DE EMERGÊNCIA?",
+          "url": "https://www.youtube.com/watch?v=fjQegt_HUdc"
+        },
+        {
+          "titulo": "3 INVESTIMENTOS PRA INICIANTES NA BOLSA DE VALORES!",
+          "url": "https://www.youtube.com/watch?v=-sGOvusS5NI"
+        },
+        {
+          "titulo": "COMO INVESTIR BEM NA CRISE!",
+          "url": "https://www.youtube.com/watch?v=2Sj9Hj1WXis"
+        },
+        {
+          "titulo": "URGENTE! TAXA SELIC CAIU PRA 2%! A POUPANÇA FICOU MELHOR QUE O TESOURO? E o impacto nas suas AÇÕES!",
+          "url": "https://www.youtube.com/watch?v=Ub2lZw3VFpE"
+        },
+        {
+          "titulo": "O QUE TE DEIXA RICO COM POUCO DINHEIRO",
+          "url": "https://www.youtube.com/watch?v=L2MEuFKkP8w&t=322s"
+        },
+        {
+          "titulo": "DESCUBRA QUANTO VOCÊ PRECISA INVESTIR PRA TER 1 MILHÃO DE REAIS!",
+          "url": "https://www.youtube.com/watch?v=czT1xN5pktw"
+        },
+        {
+          "titulo": "COMO EMPREENDER DO ZERO",
+          "url": "https://www.youtube.com/watch?v=y4w0NBCVD0M"
+        },
+        {
+          "titulo": "COMO ABRIR UM NEGÓCIO COM POUCO DINHEIRO!",
+          "url": "https://www.youtube.com/watch?v=O7cO6KT6Ass"
+        },
+        {
+          "titulo": "4 FORMAS PRÁTICAS DE CONSEGUIR 10 MIL REAIS EM 2020!",
+          "url": "https://www.youtube.com/watch?v=IbwdGy2l1OM"
+        },
+        {
+          "titulo": "COMO GANHAR R$552,00 EM 3 PASSOS!",
+          "url": "https://www.youtube.com/watch?v=zo2RM-kq9NM"
+        },
+        {
+          "titulo": "CPF NA NOTA VALE A PENA?",
+          "url": "https://www.youtube.com/watch?v=ZnQ8L_fTs8k"
+        },
+        {
+          "titulo": "CARRO OU UBER: qual é o mais BARATO?",
+          "url": "https://www.youtube.com/watch?v=PTahwliJmr0"
+        },
+        {
+          "titulo": "13 LIVROS QUE MUDARAM A MINHA VIDA!",
+          "url": "https://www.youtube.com/watch?v=kirwRuNA6hg"
+        },
+        {
+          "titulo": "7 FONTES DE RENDA PASSIVA PARA VIVER DE RENDA EM 2020!",
+          "url": "https://www.youtube.com/watch?v=b91EW8Wk2Dc"
+        },
+        {
+          "titulo": "COMO INVESTIR PRA VIVER DE RENDA COM FUNDOS IMOBILIARIOS EM 2020?",
+          "url": "https://www.youtube.com/watch?v=rhXn31-CKrg"
+        },
+        {
+          "titulo": "Como ANALISAR e ESCOLHER as melhores ações pra 2020!",
+          "url": "https://www.youtube.com/watch?v=vNh61T2K_xI"
+        },
+        {
+          "titulo": "OS 11 SINAIS de empresas que você investe e NÃO VÃO sobreviver a crise! ",
+          "url": "https://www.youtube.com/watch?v=e5_OZBLraPs"
+        },
+        {
+          "titulo": "8 HÁBITOS QUE TODO INVESTIDOR RICO TEM",
+          "url": "https://www.youtube.com/watch?v=G57XOmC7dlY"
+        },
+        {
+          "titulo": "7 FORMAS DE GANHAR DINHEIRO NA INTERNET!",
+          "url": "https://www.youtube.com/watch?v=g-I7FWBHSI8"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Nova Futura",
+      "cor": "#00008B",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Canal da Nova Futura investimentos",
+        "url": "https://www.youtube.com/c/novafuturainvestimentos/featured"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Live - Quais são os principais erros do trader iniciante?",
+          "url": "https://www.youtube.com/watch?v=ZoMxtD9W_ug"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Live - Opções para iniciantes!",
+          "url": "https://www.youtube.com/watch?v=DbolPip1yUI"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Live - Imposto de Renda para Futuros, Opções e Ações",
+          "url": "https://www.youtube.com/watch?v=VK9jsPKudcQ"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Live - Especial Bolhas",
+          "url": "https://www.youtube.com/watch?v=EmFYHPn1Q_w"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Carteira Recomendada para Agosto",
+          "url": "https://www.youtube.com/watch?v=Q1Ks0Sa5qok"
+        },
+        {
+          "titulo": "Live - Daytrader profissão ou investimento?",
+          "url": "https://www.youtube.com/watch?v=P6qxLzDQkEM"
         }
       ]
     },
+    
     {
       "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#6b5be2",
